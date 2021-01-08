@@ -1,7 +1,5 @@
-## 概要・関連チケット
-
-- https://app.clubhouse.io/nowdo/story/####
-- [ch-####]
+Fixes [ch-####]
+https://app.clubhouse.io/nowdo/story/####
 
 ※該当Storyがなければ作成してください
 
@@ -17,6 +15,3 @@
 * [ ] 
 * [ ] 
 * [ ] 
-
-## 特にレビューをお願いしたい箇所
-* 特にチェックをお願いしたいポイントを簡潔に記述する
