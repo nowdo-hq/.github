@@ -1,4 +1,5 @@
 Fixes [ch####]
+
 https://app.clubhouse.io/nowdo/story/####
 
 ※該当Storyがなければ作成してください
@@ -9,6 +10,7 @@ https://app.clubhouse.io/nowdo/story/####
 * [ ] 依存関係あり
 
 ※期限・期日があればPRタイトルに併記ください（例：[●月●日までに●●]）
+
 ※依存関係があればリリース手順も記載ください
 
 ## 動作確認・QA項目
