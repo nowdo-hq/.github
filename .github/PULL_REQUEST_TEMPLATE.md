@@ -1,6 +1,6 @@
 Fixes [ch####]
 
-https://app.clubhouse.io/nowdo/story/####
+https://
 
 ※該当Storyがなければ作成してください
 
