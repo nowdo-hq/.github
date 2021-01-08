@@ -1,9 +1,3 @@
----
-name: Default
-about: タスクの整理と内容を記す
-
----
-
 ## 概要・関連チケット
 
 - https://app.clubhouse.io/nowdo/story/####
