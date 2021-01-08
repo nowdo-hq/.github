@@ -1,4 +1,4 @@
-Fixes [ch-####]
+Fixes [ch####]
 https://app.clubhouse.io/nowdo/story/####
 
 ※該当Storyがなければ作成してください
