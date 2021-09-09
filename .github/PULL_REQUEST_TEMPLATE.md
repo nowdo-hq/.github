@@ -1,12 +1,11 @@
-Fixes [ch####]
+Fixes [sc-####]
 
-https://
+https://app.shortcut.com/nowdo/story/
 
 ※該当Storyがなければ作成してください
 
 ## 変更内容
 
-* 
 * 
 
 ## 期日
@@ -20,8 +19,6 @@ https://
 
 ## 動作確認・QA項目
 
-* [ ] 
-* [ ] 
 * [ ] 
 
 ## 注意事項
